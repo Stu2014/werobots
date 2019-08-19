@@ -7,7 +7,8 @@
 
 ## 安装 ##
 > pip install -r requierments
-> pytho Werobots.py
+
+> python Werobots.py
 
 扫描二维码登录即可
 
